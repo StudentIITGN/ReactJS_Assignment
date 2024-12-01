@@ -1,0 +1,16 @@
+.dropdown {
+    margin-bottom: 16px;
+  }
+  
+  .dropdown label {
+    font-weight: bold;
+    margin-right: 8px;
+  }
+  
+  .dropdown-select {
+    padding: 4px 8px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
